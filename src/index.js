@@ -10,9 +10,10 @@ import './App.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+<BrowserRouter basename={process.env.PUBLIC_URL}>
   <App />
-</BrowserRouter>,
+</BrowserRouter>
+
 );
 
 // If you want to start measuring performance in your app, pass a function
