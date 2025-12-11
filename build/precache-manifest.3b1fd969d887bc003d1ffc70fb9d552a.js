@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "304d50bcc020eaab1c907a3f69951a81",
+    "revision": "7ff174ad1873bf22978e7820085bc4c0",
     "url": "/react-jewelry-shop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-jewelry-shop/static/css/2.05757d0e.chunk.css"
   },
   {
-    "revision": "65b6e2100a579e8c5a4f",
+    "revision": "ecb78ff3ff3ea61fab26",
     "url": "/react-jewelry-shop/static/css/main.83d727ec.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-jewelry-shop/static/js/3.1f2e1642.chunk.js"
   },
   {
-    "revision": "65b6e2100a579e8c5a4f",
-    "url": "/react-jewelry-shop/static/js/main.d2f0bfd5.chunk.js"
+    "revision": "ecb78ff3ff3ea61fab26",
+    "url": "/react-jewelry-shop/static/js/main.1561e402.chunk.js"
   },
   {
     "revision": "3ee0063b7d5e18de05b5",

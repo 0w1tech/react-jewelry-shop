@@ -54,7 +54,7 @@ function Footer () {
               </span>
             </p>
             <p>
-              <i className='bi bi-envelope-fill'></i> info@example.com
+              <i className='bi bi-envelope-fill'></i> owltechdev@gmail.com
             </p>
           </Col>
         </Row>
