@@ -51,7 +51,7 @@ const Home = ({ addToCart }) => {
         </div>
       </Container>
 
-      <TitleWithLines text='پک انگشتر وینا' />
+      <TitleWithLines text=' انگشتر ها' />
       <Container>
         <div className='d-flex flex-wrap justify-content-around'>
           {rings.map(item => (

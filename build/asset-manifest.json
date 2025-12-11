@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-jewelry-shop/static/css/main.83d727ec.chunk.css",
-    "main.js": "/react-jewelry-shop/static/js/main.a111f9f2.chunk.js",
-    "main.js.map": "/react-jewelry-shop/static/js/main.a111f9f2.chunk.js.map",
+    "main.js": "/react-jewelry-shop/static/js/main.d2f0bfd5.chunk.js",
+    "main.js.map": "/react-jewelry-shop/static/js/main.d2f0bfd5.chunk.js.map",
     "runtime-main.js": "/react-jewelry-shop/static/js/runtime-main.304ebc80.js",
     "runtime-main.js.map": "/react-jewelry-shop/static/js/runtime-main.304ebc80.js.map",
     "static/css/2.05757d0e.chunk.css": "/react-jewelry-shop/static/css/2.05757d0e.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.1f2e1642.chunk.js": "/react-jewelry-shop/static/js/3.1f2e1642.chunk.js",
     "static/js/3.1f2e1642.chunk.js.map": "/react-jewelry-shop/static/js/3.1f2e1642.chunk.js.map",
     "index.html": "/react-jewelry-shop/index.html",
-    "precache-manifest.834ca3132cb029326bc9e677aa8c7519.js": "/react-jewelry-shop/precache-manifest.834ca3132cb029326bc9e677aa8c7519.js",
+    "precache-manifest.96f6b377114a2c14a1ad6383effe977e.js": "/react-jewelry-shop/precache-manifest.96f6b377114a2c14a1ad6383effe977e.js",
     "service-worker.js": "/react-jewelry-shop/service-worker.js",
     "static/css/2.05757d0e.chunk.css.map": "/react-jewelry-shop/static/css/2.05757d0e.chunk.css.map",
     "static/css/main.83d727ec.chunk.css.map": "/react-jewelry-shop/static/css/main.83d727ec.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.05757d0e.chunk.css",
     "static/js/2.27c9ef7e.chunk.js",
     "static/css/main.83d727ec.chunk.css",
-    "static/js/main.a111f9f2.chunk.js"
+    "static/js/main.d2f0bfd5.chunk.js"
   ]
 }
