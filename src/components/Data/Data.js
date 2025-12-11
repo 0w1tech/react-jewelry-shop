@@ -6,10 +6,10 @@ export const categories = [
 ];
 
 export const offItems = [
-  { id: 1, title: 'گردنبند طرح قلب', type: 'offItems', price: 200_000, img: process.env.PUBLIC_URL + '/images/offItems/offitem-1.webp', stock: 10 },
-  { id: 2, title: 'دستبند طرح اسکای', type: 'offItems', price: 200_000, img: process.env.PUBLIC_URL + '/images/offItems/offitem-2.webp', stock: 10 },
-  { id: 3, title: 'گوشواره طرح جسیکا', type: 'offItems', price: 200_000, img: process.env.PUBLIC_URL + '/images/offItems/offitem-3.webp', stock: 10 },
-  { id: 4, title: 'دستبند طرح تاتم', type: 'offItems', price: 300_000, img: process.env.PUBLIC_URL + '/images/offItems/offitem-4.webp', stock: 10 },
+  { id: 1, title: 'گردنبند طرح قلب', type: 'offItems', price: 200_000, img: process.env.PUBLIC_URL + '/images/offitems/offitem-1.webp', stock: 10 },
+  { id: 2, title: 'دستبند طرح اسکای', type: 'offItems', price: 200_000, img: process.env.PUBLIC_URL + '/images/offitems/offitem-2.webp', stock: 10 },
+  { id: 3, title: 'گوشواره طرح جسیکا', type: 'offItems', price: 200_000, img: process.env.PUBLIC_URL + '/images/offitems/offitem-3.webp', stock: 10 },
+  { id: 4, title: 'دستبند طرح تاتم', type: 'offItems', price: 300_000, img: process.env.PUBLIC_URL + '/images/offitems/offitem-4.webp', stock: 10 },
 ];
 
 export const newestProduct = [
