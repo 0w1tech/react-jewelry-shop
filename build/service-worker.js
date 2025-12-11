@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-jewelry-shop/precache-manifest.3b1fd969d887bc003d1ffc70fb9d552a.js"
+  "/react-jewelry-shop/precache-manifest.7679fd918fcd5ca8cfff140720dd86a1.js"
 );
 
 self.addEventListener('message', (event) => {
