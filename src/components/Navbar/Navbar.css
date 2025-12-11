@@ -1,0 +1,96 @@
+.sticky-navbar {
+  font-family: 'Vazir', sans-serif;
+  background-color: blanchedalmond;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  position: sticky !important;
+  top: 0;
+  z-index: 9999;
+  height: 4rem;
+  margin-bottom: 2rem;
+}
+
+.sticky-navbar .nav-link {
+  color: #333;
+  font-weight: 500;
+  transition: color 0.3s ease;
+  margin: 0 10px;
+}
+
+.sticky-navbar .nav-link:hover {
+  color: orange;
+}
+
+/* دسکتاپ ساب‌منو */
+.nav-item-with-submenu {
+  position: relative;
+}
+
+.nav-item-with-submenu .submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: blanchedalmond;
+  padding: 10px 0;
+  list-style: none;
+  margin: 0;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.nav-item-with-submenu:hover .submenu,
+.nav-item-with-submenu:focus .submenu {
+  display: block;
+}
+
+.submenu li {
+  padding: 5px 20px;
+}
+
+.submenu li a {
+  color: #333;
+}
+
+.submenu li a:hover {
+  color: orange;
+}
+
+/* پروفایل منو */
+.nav-item-with-submenu .profile {
+  min-width: 200px;
+  left: auto;
+  right: 0;
+}
+
+/* دکمه سبد خرید */
+.navbar .btn {
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+/* همبرگر موبایل */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='orange' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.mobile-menu {
+  width: 100%;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  margin-top: 18px;
+  background-color: blanchedalmond !important;
+
+}
+
+/* موبایل منو */ 
+.mobile-menu .nav-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.mobile-menu .submenu li {
+  font-size: small !important;
+  background-color: bisque;
+}
