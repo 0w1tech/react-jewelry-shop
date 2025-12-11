@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import { categories, smallCategories } from '../Data/Data';
+import { categories } from '../Data/Data';
 import './Categories.css';
 
 const Categories = () => {

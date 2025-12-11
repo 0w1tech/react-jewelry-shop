@@ -12,31 +12,32 @@ function CarouselFadeExample () {
   }
 
   return (
-    <Container>
-      <Carousel fade>
-        <Carousel.Item onClick={() => goToPage('/bracelet')}>
-          <img
-            className='d-block w-100'
-            src='/images/slider/slider1.jpg'
-            alt='First slide'
-          />
-          <Carousel.Caption>
-            <h3>دستبند</h3>
-          </Carousel.Caption>
-        </Carousel.Item>
+  <Container>
+    <Carousel fade>
+      <Carousel.Item onClick={() => goToPage('/bracelet')}>
+        <img
+          className="d-block w-100"
+          src={process.env.PUBLIC_URL + '/images/slider/slider1.jpg'}
+          alt="First slide"
+        />
+        <Carousel.Caption>
+          <h3>دستبند</h3>
+        </Carousel.Caption>
+      </Carousel.Item>
 
-        <Carousel.Item onClick={() => goToPage('/earring')}>
-          <img
-            className='d-block w-100'
-            src='/images/slider/slider3.webp'
-            alt='Third slide'
-          />
-          <Carousel.Caption>
-            <h3>گوشواره</h3>
-          </Carousel.Caption>
-        </Carousel.Item>
-      </Carousel>
-    </Container>
+      <Carousel.Item onClick={() => goToPage('/earring')}>
+        <img
+          className="d-block w-100"
+          src={process.env.PUBLIC_URL + '/images/slider/slider3.webp'}
+          alt="Third slide"
+        />
+        <Carousel.Caption>
+          <h3>گوشواره</h3>
+        </Carousel.Caption>
+      </Carousel.Item>
+    </Carousel>
+  </Container>
+
   )
 }
 
